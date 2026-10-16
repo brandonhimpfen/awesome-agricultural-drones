@@ -25,15 +25,13 @@ Agricultural drones are transforming modern farming practices by enabling precis
 
 ## General Resources
 
-- [Introduction to Agricultural Drones (AgFunder)](https://agfundernews.com/agricultural-drones-101.html) — Overview of how drones are used in agriculture.
 - [UAVs in Agriculture: A New Era for Precision Farming (FAO)](https://www.fao.org/news/story/en/item/1218502/icode/) — UN report on agricultural drone applications.
 - [Drone Deploy: Agriculture](https://www.dronedeploy.com/industries/agriculture/) — Commercial solutions overview for crop monitoring and management.
 
 ## Drone Models & Platforms
 
-- [DJI Agras Series](https://www.dji.com/agriculture) — Leading agricultural drones designed for spraying, seeding, and mapping.
-- [Parrot Bluegrass](https://www.parrot.com/drones/parrot-bluegrass) — Drone specialized for precision agriculture and crop analysis.
-- [senseFly eBee Ag](https://www.sensefly.com/drone/ebee-ag/) — Fixed-wing drone for large-scale agricultural mapping.
+- [DJI Agras Series](https://ag.dji.com/) — Leading agricultural drones designed for spraying, seeding, and mapping.
+- [senseFly eBee Ag](https://eaglenxt.com/) — Fixed-wing drone for large-scale agricultural mapping.
 - [XAG Agricultural Drones](https://www.xa.com/en-us/agriculture/) — Smart agricultural drone systems for spraying and crop monitoring.
 
 ## Sensors & Payloads
@@ -50,7 +48,7 @@ Agricultural drones are transforming modern farming practices by enabling precis
 
 ## Use Cases & Applications
 
-- [Crop Spraying with Drones (DJI)](https://www.dji.com/agriculture) — Case studies on aerial crop spraying.
+- [Crop Spraying with Drones (DJI)](https://ag.dji.com/) — Case studies on aerial crop spraying.
 - [Precision Agriculture with UAVs (John Deere)](https://www.deere.com/en/technology-products/precision-ag-technology/) — Use of drones in large-scale farming operations.
 - [Drone Mapping for Vineyards (senseFly)](https://www.sensefly.com/applications/agriculture/viticulture/) — Specific use case for vineyard monitoring and management.
 
