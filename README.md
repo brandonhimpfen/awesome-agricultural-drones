@@ -25,24 +25,22 @@ Agricultural drones are transforming modern farming practices by enabling precis
 
 ## General Resources
 
-- [UAVs in Agriculture: A New Era for Precision Farming (FAO)](https://www.fao.org/news/story/en/item/1218502/icode/) — UN report on agricultural drone applications.
 - [Drone Deploy: Agriculture](https://www.dronedeploy.com/industries/agriculture/) — Commercial solutions overview for crop monitoring and management.
 
 ## Drone Models & Platforms
 
 - [DJI Agras Series](https://ag.dji.com/) — Leading agricultural drones designed for spraying, seeding, and mapping.
 - [senseFly eBee Ag](https://eaglenxt.com/) — Fixed-wing drone for large-scale agricultural mapping.
-- [XAG Agricultural Drones](https://www.xa.com/en-us/agriculture/) — Smart agricultural drone systems for spraying and crop monitoring.
+- [XAG Agricultural Drones](https://www.xa.com/en/) — Smart agricultural drone systems for spraying and crop monitoring.
 
 ## Sensors & Payloads
 
 - [MicaSense RedEdge-MX](https://www.micasense.com/rededge-mx) — Multispectral sensor designed for agriculture and research.
-- [Parrot Sequoia+](https://www.parrot.com/business-solutions/parrot-professional/parrot-sequoia) — Multispectral camera for drone-based agriculture monitoring.
 - [Sentera Sensors](https://sentera.com/) — Precision agriculture sensors compatible with multiple drone platforms.
 
 ## Software & Data Processing
 
-- [Pix4Dfields](https://www.pix4d.com/product/pix4dfields-agriculture-mapping) — Crop mapping and plant health analysis software.
+- [Pix4Dfields](https://www.pix4d.com/product/pix4dfields) — Crop mapping and plant health analysis software.
 - [DroneDeploy Agriculture](https://www.dronedeploy.com/industries/agriculture/) — Data platform for precision farming insights.
 - [Agremo](https://www.agremo.com/) — AI-powered analytics platform for crop scouting and reporting.
 
@@ -50,7 +48,7 @@ Agricultural drones are transforming modern farming practices by enabling precis
 
 - [Crop Spraying with Drones (DJI)](https://ag.dji.com/) — Case studies on aerial crop spraying.
 - [Precision Agriculture with UAVs (John Deere)](https://www.deere.com/en/technology-products/precision-ag-technology/) — Use of drones in large-scale farming operations.
-- [Drone Mapping for Vineyards (senseFly)](https://www.sensefly.com/applications/agriculture/viticulture/) — Specific use case for vineyard monitoring and management.
+- [Drone Mapping for Vineyards (senseFly)](https://eaglenxt.com/industry/agriculture/) — Specific use case for vineyard monitoring and management.
 
 ## Datasets & Research
 
@@ -61,7 +59,7 @@ Agricultural drones are transforming modern farming practices by enabling precis
 ## Communities & Forums
 
 - [Precision Agriculture Reddit](https://www.reddit.com/r/precisionagriculture/) — Community discussions on agricultural drones and precision farming.
-- [Commercial UAV News Agriculture](https://www.commercialuavnews.com/agriculture) — News and insights on UAVs in agriculture.
+- [Commercial UAV News Agriculture](https://www.commercialuavnews.com/news/forestry-agriculture) — News and insights on UAVs in agriculture.
 - [AgFunder Network](https://agfunder.com/) — Investment and innovation in agri-tech including drones.
 
 ## Related Awesome Lists
